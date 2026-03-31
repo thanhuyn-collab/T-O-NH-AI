@@ -1,0 +1,5 @@
+{
+  "name": "Remix:  ẢNH AI PRO",
+  "description": "An AI-powered image editing and creation tool using Google Gemini. Generate new masterpieces or edit existing photos with advanced controls like face locking and aspect ratio selection.",
+  "requestFramePermissions": []
+}
